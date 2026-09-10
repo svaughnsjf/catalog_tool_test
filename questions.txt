@@ -1,0 +1,15 @@
+Tell me everywhere comm 353 is listed as a requirement or an elective
+Tell me the requirements of history major  (or any major)
+Find me all hidden pre-reqs in the School of Arts and Sciences
+These prerequisites are important for students and advisors to be aware of, as they are not captured in the formal prerequisite system.
+If [FINA-413] (International Bank & Fin) were removed from the catalog, it would impact the following programs:
+Find and discrepancies between the courses offered and courses required section of the catalog
+Make sure total credits on program requirement page is correct (aligns with courses section)
+Courses match requirement page: title, course #, and credit hours
+Identify all changes from catalog 2026 vs 2025 and pull them out in a bulletin format by major
+Compare the 2025 and 2026 catalogs. List every degree program where the total required credit count changed.
+Provide a table of all newly introduced courses in 2026 alongside all courses that were archived or deleted from the 2025 catalog
+Find all courses that state 'Or permission of instructor' in place of formal prerequisites, and list which department they belong to
+Identify any courses listed in the 'Requirements for Major' section of Psychology that do not exist in the Course section of the catalog
+What is the complete chain of prerequisites needed before a student can register for PYSC 412? Include all nested lower-level prerequisites
+Identify punctuation errors, wrong grammar, and sentence structure

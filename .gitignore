@@ -16,3 +16,6 @@ test-results/
 .DS_Store
 .vscode/
 .idea/
+
+.env.local
+auth_state.json
